@@ -5,7 +5,8 @@
 <b>Back-end</b>:C#,.NET MVC,ADO.NET,LINQ TO SQL,ENTITY FRAMEWORK<br>
 <b>Database</b>:SQL,MsSQL,MySql,MongoDB,MONGOOSE<br>
 ## contect me:
-<a href="https://www.linkedin.com/in/izhak-lijalem-52393a221/"><i class="fa-brands fa-linkedin"></i></a>
+https://www.linkedin.com/in/izhak-lijalem-52393a221/<br>
+IzhakLijalem28@gmail.com
 <!-- <img src="https://www.linkedin.com/in/your_contact_info"/> -->
 
 <!--
