@@ -1,9 +1,9 @@
 ## Hello I'm Izhak Lijalem 👋
 ## Full stack developer
 ## Tecnologies:
-Front-end: HTML5,CSS3,JAVASCRIPT,ES6,TYPESCRIPT,REACTJS,REACT HOOKS,BOOTSTRAP,MUI,JEST<br>
-Back-end:C#,.NET MVC,ADO.NET,LINQ TO SQL,ENTITY FRAMEWORK<br>
-Database:SQL,MsSQL,MySql,MongoDB,MONGOOSE<br>
+<b>Front-end</b>: HTML5,CSS3,JAVASCRIPT,ES6,TYPESCRIPT,REACTJS,REACT HOOKS,BOOTSTRAP,MUI,JEST<br>
+<b>Back-end</b>:C#,.NET MVC,ADO.NET,LINQ TO SQL,ENTITY FRAMEWORK<br>
+<b>Database</b>:SQL,MsSQL,MySql,MongoDB,MONGOOSE<br>
 ## contect me:
 <a href="https://www.linkedin.com/in/izhak-lijalem-52393a221/"><img src="https://www.linkedin.com/in/your_contact_info"/></a>
 <!-- <img src="https://www.linkedin.com/in/your_contact_info"/> -->
