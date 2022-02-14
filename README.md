@@ -2,10 +2,12 @@
 ## Full stack developer
 ## Tecnologies:
 Front-end: HTML5,CSS3,JAVASCRIPT,ES6,TYPESCRIPT,REACTJS,REACT HOOKS,BOOTSTRAP,MUI,JEST<br>
-Back-end:C#,.NET MVC,ADO.NET,LINQ TO SQL,ENTITY FRAMEWORK
-Database:SQL,MsSQL,MySql,MongoDB,MONGOOSE
+Back-end:C#,.NET MVC,ADO.NET,LINQ TO SQL,ENTITY FRAMEWORK<br>
+Database:SQL,MsSQL,MySql,MongoDB,MONGOOSE<br>
 ## contect me:
-https://www.linkedin.com/in/izhak-lijalem-52393a221/
+<a href="https://www.linkedin.com/in/izhak-lijalem-52393a221/"><img src="https://www.linkedin.com/in/your_contact_info"/></a>
+<!-- <img src="https://www.linkedin.com/in/your_contact_info"/> -->
+
 <!--
 **Izhakhtml/izhakhtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
