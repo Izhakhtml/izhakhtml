@@ -1,4 +1,4 @@
-## Hello I'm Izhak Lijalem 👋
+## Wellcome I'm Izhak Lijalem 👋
 ## Full stack developer
 ## Tecnologies:
 <b>Front-end</b>: HTML5,CSS3,JAVASCRIPT,ES6,TYPESCRIPT,REACTJS,REACT HOOKS,BOOTSTRAP,MUI,JEST<br>
