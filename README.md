@@ -1,6 +1,6 @@
 ## Hello I'm Izhak Lijalem 👋
 ## Full stack developer
-### Tecnologies:
+## Tecnologies:
 # Front-end:HTML5,CSS3,JAVASCRIPT,ES6,TYPESCRIPT,REACTJS,REACT HOOKS,BOOTSTRAP,MUI,JEST
 # Back-end:C#,.NET MVC,ADO.NET,LINQ TO SQL,ENTITY FRAMEWORK
 # Database:SQL,MsSQL,MySql,MongoDB,MONGOOSE
